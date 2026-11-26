@@ -1,26 +1,221 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+/* ---------------------------------------------------------------------------
+   Design tokens. Palette: Avocado, Plum, Linen, Cement, Maple, Rust (primary).
+   Change colours, fonts and easing here only.
+--------------------------------------------------------------------------- */
+@theme {
+  --color-plum-950: #120e11;
+  --color-plum-900: #1a1519;
+  --color-plum-850: #211b20;
+  --color-plum-800: #2a2329;
+  --color-plum-700: #372f36; /* Plum */
+  --color-plum-600: #4a4049;
+  --color-plum-500: #5e5560;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  --color-linen: #f2ece5; /* Linen */
+  --color-linen-dim: #d8d0c6;
+  --color-cement: #8d8c7d; /* Cement */
+  --color-cement-light: #aaa99b;
+  --color-maple: #b29762; /* Maple */
+  --color-avocado: #c0c26b; /* Avocado */
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  --color-rust: #9f553c; /* Rust, primary fills (4.6:1 with linen text) */
+  --color-rust-bright: #c8704f; /* Rust for text and lines on dark (5:1) */
+  --color-rust-deep: #7e3f2b;
+
+  --font-sans: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-cormorant), ui-serif, Georgia, serif;
+  /* Labels and tags use Montserrat too (uppercase + tracking), keeping the site to two families. */
+  --font-mono: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
+
+  /* Augmented-fourth type scale: each step is x1.414 from a 1rem base. */
+  --text-step--1: 0.707rem;
+  --text-step-0: 1rem;
+  --text-step-1: 1.414rem;
+  --text-step-2: 2rem;
+  --text-step-3: 2.828rem;
+  --text-step-4: 4rem;
+  --text-step-5: 5.657rem;
+  --text-step-6: 8rem;
+  --text-step-7: 11.314rem;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out-soft: cubic-bezier(0.65, 0, 0.35, 1);
+
+  --animate-marquee: marquee 40s linear infinite;
+  --animate-scroll-cue: scroll-cue 2.2s var(--ease-in-out-soft) infinite;
+  --animate-pulse-dot: pulse-dot 2.4s ease-in-out infinite;
+
+  @keyframes marquee {
+    to { transform: translateX(-50%); }
+  }
+  @keyframes scroll-cue {
+    0% { transform: scaleY(0); transform-origin: top; }
+    45% { transform: scaleY(1); transform-origin: top; }
+    55% { transform: scaleY(1); transform-origin: bottom; }
+    100% { transform: scaleY(0); transform-origin: bottom; }
+  }
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.35; }
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@custom-variant fine (@media (hover: hover) and (pointer: fine));
+
+/* --------------------------------------------------------------------------- Base */
+@layer base {
+  html {
+    color-scheme: dark;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-plum-900 font-sans text-linen antialiased;
+    font-feature-settings: "ss01", "kern";
+    text-rendering: optimizeLegibility;
+  }
+  ::selection {
+    @apply bg-rust text-linen;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-rust-bright);
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+  h1, h2, h3, h4 {
+    text-wrap: balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+}
+
+/* --------------------------------------------------------------------------- Primitives
+   Declared with @utility so they accept variants (md:display, hover:..., etc). */
+@utility shell {
+  @apply mx-auto w-full max-w-[1440px] px-5 sm:px-8 lg:px-12;
+}
+@utility section {
+  @apply relative py-24 md:py-36;
+}
+@utility eyebrow {
+  @apply font-mono text-step--1 font-semibold tracking-[0.2em] text-cement-light uppercase;
+}
+/* Cormorant display. Sizes snap to the augmented-fourth steps. */
+@utility display {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 0.95;
+}
+@utility display-lg {
+  @apply display text-[length:clamp(var(--text-step-3),6vw,var(--text-step-5))];
+}
+@utility display-md {
+  @apply display text-[length:clamp(var(--text-step-2),4vw,var(--text-step-4))];
+}
+@utility serif-accent {
+  @apply font-serif font-medium italic tracking-normal;
+}
+@utility lead {
+  @apply text-lg leading-relaxed text-linen-dim md:text-xl;
+}
+@utility tag {
+  @apply inline-flex items-center rounded-full border border-linen/15 px-3 py-1 font-mono text-[0.7rem] tracking-wide text-linen-dim;
+}
+@utility text-outline {
+  color: transparent;
+  -webkit-text-stroke: 1px color-mix(in oklab, var(--color-linen) 16%, transparent);
+}
+
+/* Light band (Linen) */
+.band-linen {
+  background-color: var(--color-linen);
+  color: var(--color-plum-700);
+}
+.band-linen .eyebrow {
+  color: var(--color-plum-500);
+}
+.band-linen .tag {
+  border-color: color-mix(in oklab, var(--color-plum-700) 20%, transparent);
+  color: var(--color-plum-600);
+}
+
+/* Film grain over everything, very low opacity. */
+.grain {
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  opacity: 0.06;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* Hero entrance: CSS only, so the LCP text paints without waiting for JS.
+   On a first visit it waits for the intro loader. */
+html:not([data-visited]) {
+  --intro: 1.75s;
+}
+.hero-line {
+  display: block;
+  overflow: hidden;
+  padding-bottom: 0.06em;
+}
+.hero-rise {
+  display: block;
+  animation: hero-rise 1.2s var(--ease-out-expo) both;
+  animation-delay: calc(var(--intro, 0s) + var(--d, 0s));
+}
+.hero-fade {
+  animation: hero-fade 1s ease both;
+  animation-delay: calc(var(--intro, 0s) + var(--d, 0s));
+}
+@keyframes hero-rise {
+  from { transform: translateY(105%); }
+}
+@keyframes hero-fade {
+  from { opacity: 0; transform: translateY(12px); }
+}
+
+/* Lenis */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-stopped {
+  overflow: clip;
+}
+
+/* First-visit loader: hidden on repeat visits by the inline boot script, and
+   faded by CSS after 3.5s even if scripts never run. */
+.loader {
+  animation: loader-cap 0.4s ease 3.5s forwards;
+}
+html[data-visited] .loader {
+  display: none;
+}
+@keyframes loader-cap {
+  to { opacity: 0; visibility: hidden; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    animation-delay: 0s !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Rust band: the default Rust focus ring would vanish, so use Linen. */
+.on-rust :focus-visible {
+  outline-color: var(--color-linen);
 }

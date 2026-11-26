@@ -1,0 +1,2638 @@
+{
+  "khudii": {
+    "screens": [
+      {
+        "src": "/projects/khudii/s-01.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Bookmark 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-02.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Category Detail Page",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-03.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Donate Amount",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-04.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Donate success pin",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-05.webp",
+        "w": 428,
+        "h": 1495,
+        "label": "Donation Overview bookmarked",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-06.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Donation Share",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-07.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Donation cause",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-08.webp",
+        "w": 428,
+        "h": 926,
+        "label": "History",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-09.webp",
+        "w": 428,
+        "h": 1616,
+        "label": "Home",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-10.webp",
+        "w": 545,
+        "h": 152,
+        "label": "Marker Navigation 2",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-11.webp",
+        "w": 459,
+        "h": 152,
+        "label": "Marker Navigation 5",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-12.webp",
+        "w": 600,
+        "h": 107,
+        "label": "Marker Navigation",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-13.webp",
+        "w": 428,
+        "h": 1071,
+        "label": "NGO's Packs 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-14.webp",
+        "w": 428,
+        "h": 926,
+        "label": "NGO's",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-15.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Notification 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-16.webp",
+        "w": 428,
+        "h": 926,
+        "label": "OTP email",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-17.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Profile inputs 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-18.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Search",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-19.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Splash screen",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-20.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Top up Amount",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-21.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Carousel 3",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-22.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Confirm pin",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-23.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Forgot password",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-24.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Home Top up Payment",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-25.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Menu logout",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-26.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Selected interest",
+        "mobile": true
+      },
+      {
+        "src": "/projects/khudii/s-27.webp",
+        "w": 428,
+        "h": 926,
+        "label": "Sign up error",
+        "mobile": true
+      }
+    ],
+    "cover": {
+      "src": "/projects/khudii/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "thumb": {
+      "src": "/projects/khudii/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "climate-iq": {
+    "screens": [
+      {
+        "src": "/projects/climate-iq/s-01.webp",
+        "w": 430,
+        "h": 1042,
+        "label": "Add schedules",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-02.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Add Buildings",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-03.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Add Device 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-04.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Add gateway 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-05.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Add gateway 3",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-06.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Buildings 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-07.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Choose category",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-08.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Controller schedule stats settings",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-09.webp",
+        "w": 430,
+        "h": 931,
+        "label": "Controller schedule",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-10.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Department devices",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-11.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Department schedule",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-12.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Dept schedule",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-13.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Devices",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-14.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Notification Settings",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-15.webp",
+        "w": 430,
+        "h": 932,
+        "label": "OTP verification",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-16.webp",
+        "w": 430,
+        "h": 934,
+        "label": "Splash Screen",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-17.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Timer",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-18.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Add clients",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-19.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Auto dns on",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-20.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Client",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-21.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Control",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-22.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Fan speed",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-23.webp",
+        "w": 430,
+        "h": 1191,
+        "label": "Home screen",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-24.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Language",
+        "mobile": true
+      },
+      {
+        "src": "/projects/climate-iq/s-25.webp",
+        "w": 430,
+        "h": 1191,
+        "label": "Navigation",
+        "mobile": true
+      }
+    ],
+    "cover": {
+      "src": "/projects/climate-iq/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "thumb": {
+      "src": "/projects/climate-iq/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "b-rap-portal": {
+    "screens": [],
+    "cover": {
+      "src": "/projects/b-rap-portal/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/b-rap-portal/full.webp",
+      "w": 1280,
+      "h": 1310
+    },
+    "thumb": {
+      "src": "/projects/b-rap-portal/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "b-rap-app": {
+    "screens": [
+      {
+        "src": "/projects/b-rap-app/s-01.webp",
+        "w": 450,
+        "h": 1137,
+        "label": "Add Team Members Jazz Business",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-02.webp",
+        "w": 450,
+        "h": 1406,
+        "label": "Allocate Resources Jazz Business 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-03.webp",
+        "w": 450,
+        "h": 1995,
+        "label": "Allocate Resources Jazz Business 2",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-04.webp",
+        "w": 450,
+        "h": 1995,
+        "label": "Allocate Resources Jazz Business 3",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-05.webp",
+        "w": 459,
+        "h": 2015,
+        "label": "Allocate Resources Jazz Business 4",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-06.webp",
+        "w": 450,
+        "h": 2015,
+        "label": "Allocate Resources Jazz Business",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-07.webp",
+        "w": 430,
+        "h": 961,
+        "label": "Bulk Upload Team Numbers Jazz Business",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-08.webp",
+        "w": 450,
+        "h": 1424,
+        "label": "Choose Payment Method Jazz Business",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-09.webp",
+        "w": 434,
+        "h": 2751,
+        "label": "Choose Your Plan Jazz Business High Fidelity",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-10.webp",
+        "w": 403,
+        "h": 1626,
+        "label": "Group 2",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-11.webp",
+        "w": 459,
+        "h": 1901,
+        "label": "Overview",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-12.webp",
+        "w": 450,
+        "h": 1713,
+        "label": "Manage Numbers Jazz Business 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-13.webp",
+        "w": 450,
+        "h": 1564,
+        "label": "Manage Numbers Jazz Business",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-14.webp",
+        "w": 458,
+        "h": 891,
+        "label": "OTP Selection Jazz Business",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-15.webp",
+        "w": 600,
+        "h": 1067,
+        "label": "OTP Verification Jazz Business",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-16.webp",
+        "w": 450,
+        "h": 1222,
+        "label": "Resource Management Jazz Business 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-17.webp",
+        "w": 450,
+        "h": 1693,
+        "label": "Resource Management Jazz Business",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-18.webp",
+        "w": 450,
+        "h": 1610,
+        "label": "Review Allocation Jazz Business",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-19.webp",
+        "w": 430,
+        "h": 900,
+        "label": "Secure Payment Jazz Business High Fidelity",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-20.webp",
+        "w": 390,
+        "h": 907,
+        "label": "Sign In Jazz Business",
+        "mobile": true
+      },
+      {
+        "src": "/projects/b-rap-app/s-21.webp",
+        "w": 450,
+        "h": 1319,
+        "label": "Sign Up Jazz Business",
+        "mobile": true
+      }
+    ],
+    "cover": {
+      "src": "/projects/b-rap-app/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "thumb": {
+      "src": "/projects/b-rap-app/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "ucas": {
+    "screens": [],
+    "cover": {
+      "src": "/projects/ucas/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/ucas/full.webp",
+      "w": 1280,
+      "h": 1490
+    },
+    "thumb": {
+      "src": "/projects/ucas/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "orinas-portal": {
+    "screens": [
+      {
+        "src": "/projects/orinas-portal/s-01.webp",
+        "w": 1440,
+        "h": 1301,
+        "label": "Admin page(all customers in each team)",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-02.webp",
+        "w": 1440,
+        "h": 1301,
+        "label": "Admin page(sales figure in each team)",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-03.webp",
+        "w": 1440,
+        "h": 856,
+        "label": "Admin page",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-04.webp",
+        "w": 1440,
+        "h": 1301,
+        "label": "Affiliate 1",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-05.webp",
+        "w": 1440,
+        "h": 1301,
+        "label": "Affiliate 2",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-06.webp",
+        "w": 1440,
+        "h": 1301,
+        "label": "Affiliate",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-07.webp",
+        "w": 1440,
+        "h": 1536,
+        "label": "Dashboard",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-08.webp",
+        "w": 1440,
+        "h": 706,
+        "label": "FAQs",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-09.webp",
+        "w": 1440,
+        "h": 856,
+        "label": "Log in",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-10.webp",
+        "w": 1440,
+        "h": 805,
+        "label": "Music library for admin",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-11.webp",
+        "w": 1440,
+        "h": 805,
+        "label": "Music library",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-12.webp",
+        "w": 1440,
+        "h": 1034,
+        "label": "News",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-13.webp",
+        "w": 1440,
+        "h": 1166,
+        "label": "Report",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-14.webp",
+        "w": 1440,
+        "h": 856,
+        "label": "Sign up(domestic) 1",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-15.webp",
+        "w": 1440,
+        "h": 856,
+        "label": "Sign up(domestic) 2",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-16.webp",
+        "w": 1440,
+        "h": 856,
+        "label": "Sign up(domestic)",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-17.webp",
+        "w": 1440,
+        "h": 856,
+        "label": "Sign up(global)",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-portal/s-18.webp",
+        "w": 1440,
+        "h": 1359,
+        "label": "User guide",
+        "mobile": false
+      }
+    ],
+    "cover": {
+      "src": "/projects/orinas-portal/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/orinas-portal/full.webp",
+      "w": 1280,
+      "h": 1022
+    },
+    "thumb": {
+      "src": "/projects/orinas-portal/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "orinas-wireframe": {
+    "screens": [
+      {
+        "src": "/projects/orinas-wireframe/s-01.webp",
+        "w": 1440,
+        "h": 5432,
+        "label": "About Us",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-wireframe/s-02.webp",
+        "w": 1440,
+        "h": 4542,
+        "label": "BLOG DETAILS",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-wireframe/s-03.webp",
+        "w": 1440,
+        "h": 3795,
+        "label": "Blogs",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-wireframe/s-04.webp",
+        "w": 1440,
+        "h": 3116,
+        "label": "Contact us",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-wireframe/s-05.webp",
+        "w": 1440,
+        "h": 7787,
+        "label": "Home",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-wireframe/s-06.webp",
+        "w": 1440,
+        "h": 4542,
+        "label": "SERVICES DETAILS",
+        "mobile": false
+      },
+      {
+        "src": "/projects/orinas-wireframe/s-07.webp",
+        "w": 1440,
+        "h": 3795,
+        "label": "SERVICES",
+        "mobile": false
+      }
+    ],
+    "cover": {
+      "src": "/projects/orinas-wireframe/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/orinas-wireframe/full.webp",
+      "w": 1280,
+      "h": 6921
+    },
+    "thumb": {
+      "src": "/projects/orinas-wireframe/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "polarcream": {
+    "screens": [],
+    "cover": {
+      "src": "/projects/polarcream/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/polarcream/full.webp",
+      "w": 1280,
+      "h": 3164
+    },
+    "thumb": {
+      "src": "/projects/polarcream/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "green-origin": {
+    "screens": [],
+    "cover": {
+      "src": "/projects/green-origin/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/green-origin/full.webp",
+      "w": 1280,
+      "h": 4572
+    },
+    "thumb": {
+      "src": "/projects/green-origin/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "tanzeem": {
+    "screens": [],
+    "cover": {
+      "src": "/projects/tanzeem/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/tanzeem/full.webp",
+      "w": 1280,
+      "h": 4089
+    },
+    "thumb": {
+      "src": "/projects/tanzeem/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "stockkonnect": {
+    "screens": [],
+    "cover": {
+      "src": "/projects/stockkonnect/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/stockkonnect/full.webp",
+      "w": 1280,
+      "h": 7974
+    },
+    "thumb": {
+      "src": "/projects/stockkonnect/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "stockkonnect-portal": {
+    "screens": [
+      {
+        "src": "/projects/stockkonnect-portal/s-01.webp",
+        "w": 1288,
+        "h": 2477,
+        "label": "Ebay Configuration",
+        "mobile": false
+      },
+      {
+        "src": "/projects/stockkonnect-portal/s-02.webp",
+        "w": 1300,
+        "h": 1857,
+        "label": "Overview",
+        "mobile": false
+      },
+      {
+        "src": "/projects/stockkonnect-portal/s-03.webp",
+        "w": 1300,
+        "h": 1331,
+        "label": "StockKonnect Manage Inventory",
+        "mobile": false
+      },
+      {
+        "src": "/projects/stockkonnect-portal/s-04.webp",
+        "w": 1308,
+        "h": 1230,
+        "label": "StockKonnect Warehouse List",
+        "mobile": false
+      },
+      {
+        "src": "/projects/stockkonnect-portal/s-05.webp",
+        "w": 1288,
+        "h": 2477,
+        "label": "Shipping Settings",
+        "mobile": false
+      }
+    ],
+    "cover": {
+      "src": "/projects/stockkonnect-portal/cover.webp",
+      "w": 1600,
+      "h": 1001
+    },
+    "full": {
+      "src": "/projects/stockkonnect-portal/full.webp",
+      "w": 1280,
+      "h": 1311
+    },
+    "thumb": {
+      "src": "/projects/stockkonnect-portal/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "medikva": {
+    "screens": [],
+    "cover": {
+      "src": "/projects/medikva/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/medikva/full.webp",
+      "w": 1280,
+      "h": 7828
+    },
+    "thumb": {
+      "src": "/projects/medikva/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "merc-1122": {
+    "screens": [],
+    "cover": {
+      "src": "/projects/merc-1122/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/merc-1122/full.webp",
+      "w": 1280,
+      "h": 4152
+    },
+    "thumb": {
+      "src": "/projects/merc-1122/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "soil": {
+    "screens": [],
+    "cover": {
+      "src": "/projects/soil/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/soil/full.webp",
+      "w": 1280,
+      "h": 1529
+    },
+    "thumb": {
+      "src": "/projects/soil/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "izmir-portal": {
+    "screens": [],
+    "cover": {
+      "src": "/projects/izmir-portal/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/izmir-portal/full.webp",
+      "w": 1280,
+      "h": 1770
+    },
+    "thumb": {
+      "src": "/projects/izmir-portal/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "izmir-app": {
+    "screens": [
+      {
+        "src": "/projects/izmir-app/s-01.webp",
+        "w": 470,
+        "h": 2699,
+        "label": "Announcements Updated Branding",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-02.webp",
+        "w": 440,
+        "h": 1004,
+        "label": "Bill Detail",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-03.webp",
+        "w": 470,
+        "h": 1389,
+        "label": "Complaints Updated Branding",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-04.webp",
+        "w": 394,
+        "h": 1106,
+        "label": "Create Matrimonial Profile Step 3",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-05.webp",
+        "w": 394,
+        "h": 990,
+        "label": "Create Matrimonial Profile Step 4",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-06.webp",
+        "w": 394,
+        "h": 937,
+        "label": "Create Matrimonial Profile Step 5",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-07.webp",
+        "w": 394,
+        "h": 1503,
+        "label": "Create Matrimonial Profile Step 6",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-08.webp",
+        "w": 394,
+        "h": 1583,
+        "label": "Create Matrimonial Profile Step 7",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-09.webp",
+        "w": 470,
+        "h": 1211,
+        "label": "Electricity",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-10.webp",
+        "w": 470,
+        "h": 1084,
+        "label": "Graveyard",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-11.webp",
+        "w": 470,
+        "h": 1304,
+        "label": "Home Dashboard",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-12.webp",
+        "w": 439,
+        "h": 3610,
+        "label": "Overview",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-13.webp",
+        "w": 422,
+        "h": 905,
+        "label": "Login Updated Branding",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-14.webp",
+        "w": 470,
+        "h": 1583,
+        "label": "Maintenance Updated Branding",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-15.webp",
+        "w": 394,
+        "h": 2149,
+        "label": "Matrimonial Detailed Profile View",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-16.webp",
+        "w": 394,
+        "h": 2698,
+        "label": "Matrimonial Profile Marketplace",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-17.webp",
+        "w": 470,
+        "h": 1077,
+        "label": "Servant Registration Updated Branding",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-18.webp",
+        "w": 390,
+        "h": 884,
+        "label": "Splash",
+        "mobile": true
+      },
+      {
+        "src": "/projects/izmir-app/s-19.webp",
+        "w": 470,
+        "h": 1458,
+        "label": "Vehicle Registration Updated Branding",
+        "mobile": true
+      }
+    ],
+    "cover": {
+      "src": "/projects/izmir-app/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "thumb": {
+      "src": "/projects/izmir-app/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "cutting-edge": {
+    "screens": [],
+    "cover": {
+      "src": "/projects/cutting-edge/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/cutting-edge/full.webp",
+      "w": 1280,
+      "h": 6551
+    },
+    "thumb": {
+      "src": "/projects/cutting-edge/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "kaba-travels": {
+    "screens": [],
+    "cover": {
+      "src": "/projects/kaba-travels/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/kaba-travels/full.webp",
+      "w": 1280,
+      "h": 7422
+    },
+    "thumb": {
+      "src": "/projects/kaba-travels/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "mnd-homes": {
+    "screens": [],
+    "cover": {
+      "src": "/projects/mnd-homes/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/mnd-homes/full.webp",
+      "w": 1280,
+      "h": 3831
+    },
+    "thumb": {
+      "src": "/projects/mnd-homes/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "job-board": {
+    "screens": [],
+    "cover": {
+      "src": "/projects/job-board/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/job-board/full.webp",
+      "w": 1280,
+      "h": 4563
+    },
+    "thumb": {
+      "src": "/projects/job-board/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "dha-consumer": {
+    "screens": [
+      {
+        "src": "/projects/dha-consumer/s-01.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Splash Screen",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-02.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Onboarding Product Screen 2",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-03.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Login",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-04.webp",
+        "w": 375,
+        "h": 812,
+        "label": "OTP",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-05.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Confirm OTP",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-06.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Emergencies",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-07.webp",
+        "w": 375,
+        "h": 1003,
+        "label": "Dispatch revise",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-08.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Feedback Detail",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-09.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Feedbacks",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-10.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Sub Accounts List",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-11.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Sub Account",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-12.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Nav Menu",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-13.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Announcement",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-14.webp",
+        "w": 375,
+        "h": 827,
+        "label": "Complaint list",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-15.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Group 149",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-16.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Language",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-17.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Main home",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-18.webp",
+        "w": 375,
+        "h": 812,
+        "label": "New Property",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-19.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Properties List",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-20.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Property Delete",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-21.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Servant registration",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-22.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Splash 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-23.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Survellence",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-24.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Utility bills 01 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-25.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Utility bills 01",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-26.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Utility bills 02 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/dha-consumer/s-27.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Voice Message 1",
+        "mobile": true
+      }
+    ],
+    "cover": {
+      "src": "/projects/dha-consumer/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "thumb": {
+      "src": "/projects/dha-consumer/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "custom-tracking": {
+    "screens": [
+      {
+        "src": "/projects/custom-tracking/s-01.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Splash Screen",
+        "mobile": true
+      },
+      {
+        "src": "/projects/custom-tracking/s-02.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Trip info",
+        "mobile": true
+      },
+      {
+        "src": "/projects/custom-tracking/s-03.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Login",
+        "mobile": true
+      },
+      {
+        "src": "/projects/custom-tracking/s-04.webp",
+        "w": 390,
+        "h": 812,
+        "label": "Qr code",
+        "mobile": true
+      },
+      {
+        "src": "/projects/custom-tracking/s-05.webp",
+        "w": 600,
+        "h": 1299,
+        "label": "Start trip",
+        "mobile": true
+      },
+      {
+        "src": "/projects/custom-tracking/s-06.webp",
+        "w": 375,
+        "h": 812,
+        "label": "End Qrcode",
+        "mobile": true
+      },
+      {
+        "src": "/projects/custom-tracking/s-07.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Tripend form",
+        "mobile": true
+      },
+      {
+        "src": "/projects/custom-tracking/s-08.webp",
+        "w": 600,
+        "h": 1299,
+        "label": "Trip Review",
+        "mobile": true
+      }
+    ],
+    "cover": {
+      "src": "/projects/custom-tracking/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "thumb": {
+      "src": "/projects/custom-tracking/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "mezochat": {
+    "screens": [
+      {
+        "src": "/projects/mezochat/s-01.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Calls",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-02.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Contacts",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-03.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Create group",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-04.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Create poll",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-05.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Group call",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-06.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Group message",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-07.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Home delete",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-08.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Home",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-09.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Incoming call",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-10.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Message 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-11.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Message 2",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-12.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Message",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-13.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Onboarding",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-14.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Settings",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-15.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Sign in 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-16.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Sign in",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-17.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Sign up 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-18.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Sign up",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-19.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Splash",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-20.webp",
+        "w": 375,
+        "h": 812,
+        "label": "User profile",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-21.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Video Call",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-22.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Popup",
+        "mobile": true
+      },
+      {
+        "src": "/projects/mezochat/s-23.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Search",
+        "mobile": true
+      }
+    ],
+    "cover": {
+      "src": "/projects/mezochat/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "thumb": {
+      "src": "/projects/mezochat/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "naemun": {
+    "screens": [
+      {
+        "src": "/projects/naemun/s-01.webp",
+        "w": 440,
+        "h": 915,
+        "label": "Rectangle 23890 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-02.webp",
+        "w": 440,
+        "h": 915,
+        "label": "Rectangle 23890 2",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-03.webp",
+        "w": 440,
+        "h": 1805,
+        "label": "Rectangle 23890",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-04.webp",
+        "w": 420,
+        "h": 956,
+        "label": "Rectangle 23891 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-05.webp",
+        "w": 420,
+        "h": 1546,
+        "label": "Rectangle 23891",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-06.webp",
+        "w": 440,
+        "h": 1230,
+        "label": "Rectangle 23893 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-07.webp",
+        "w": 440,
+        "h": 1428,
+        "label": "Rectangle 23893",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-08.webp",
+        "w": 440,
+        "h": 907,
+        "label": "Rectangle 23894 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-09.webp",
+        "w": 440,
+        "h": 907,
+        "label": "Rectangle 23894 2",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-10.webp",
+        "w": 440,
+        "h": 907,
+        "label": "Rectangle 23894 3",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-11.webp",
+        "w": 440,
+        "h": 907,
+        "label": "Rectangle 23894 4",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-12.webp",
+        "w": 440,
+        "h": 907,
+        "label": "Rectangle 23894 5",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-13.webp",
+        "w": 440,
+        "h": 956,
+        "label": "Rectangle 23894 6",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-14.webp",
+        "w": 440,
+        "h": 907,
+        "label": "Rectangle 23894",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-15.webp",
+        "w": 440,
+        "h": 926,
+        "label": "Rectangle 23896 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-16.webp",
+        "w": 440,
+        "h": 926,
+        "label": "Rectangle 23896 2",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-17.webp",
+        "w": 440,
+        "h": 912,
+        "label": "Rectangle 23896 3",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-18.webp",
+        "w": 440,
+        "h": 929,
+        "label": "Rectangle 23896 4",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-19.webp",
+        "w": 440,
+        "h": 926,
+        "label": "Rectangle 23896",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-20.webp",
+        "w": 440,
+        "h": 956,
+        "label": "Shop gallery",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-21.webp",
+        "w": 440,
+        "h": 956,
+        "label": "Shop social places",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-22.webp",
+        "w": 440,
+        "h": 956,
+        "label": "Shop social",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-23.webp",
+        "w": 440,
+        "h": 956,
+        "label": "Shop working",
+        "mobile": true
+      },
+      {
+        "src": "/projects/naemun/s-24.webp",
+        "w": 440,
+        "h": 1586,
+        "label": "Shop",
+        "mobile": true
+      }
+    ],
+    "cover": {
+      "src": "/projects/naemun/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "thumb": {
+      "src": "/projects/naemun/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "omnichat": {
+    "screens": [
+      {
+        "src": "/projects/omnichat/s-01.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Splash",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-02.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Sign in",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-03.webp",
+        "w": 430,
+        "h": 963,
+        "label": "CHat Filter 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-04.webp",
+        "w": 430,
+        "h": 963,
+        "label": "CHat Filter",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-05.webp",
+        "w": 430,
+        "h": 963,
+        "label": "CHat Whatsapp",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-06.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Chat closed",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-07.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Chat inner filter",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-08.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Chat list",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-09.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Chat restrictions",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-10.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Chat status",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-11.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Chat",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-12.webp",
+        "w": 430,
+        "h": 1150,
+        "label": "Dashboard",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-13.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Menu list",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-14.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Tickets chat",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-15.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Tickets filters 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-16.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Tickets filters",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-17.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Tickets list",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-18.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Tickets status 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/omnichat/s-19.webp",
+        "w": 430,
+        "h": 932,
+        "label": "Tickets status",
+        "mobile": true
+      }
+    ],
+    "cover": {
+      "src": "/projects/omnichat/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "thumb": {
+      "src": "/projects/omnichat/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "recording": {
+    "screens": [
+      {
+        "src": "/projects/recording/s-01.webp",
+        "w": 440,
+        "h": 956,
+        "label": "Forgot Password",
+        "mobile": true
+      },
+      {
+        "src": "/projects/recording/s-02.webp",
+        "w": 440,
+        "h": 956,
+        "label": "Log In",
+        "mobile": true
+      },
+      {
+        "src": "/projects/recording/s-03.webp",
+        "w": 440,
+        "h": 956,
+        "label": "New Recording",
+        "mobile": true
+      },
+      {
+        "src": "/projects/recording/s-04.webp",
+        "w": 440,
+        "h": 956,
+        "label": "NewCategory",
+        "mobile": true
+      },
+      {
+        "src": "/projects/recording/s-05.webp",
+        "w": 440,
+        "h": 956,
+        "label": "Recording Details",
+        "mobile": true
+      },
+      {
+        "src": "/projects/recording/s-06.webp",
+        "w": 440,
+        "h": 956,
+        "label": "Recordings 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/recording/s-07.webp",
+        "w": 440,
+        "h": 956,
+        "label": "Recordings",
+        "mobile": true
+      },
+      {
+        "src": "/projects/recording/s-08.webp",
+        "w": 440,
+        "h": 956,
+        "label": "Sign Up",
+        "mobile": true
+      },
+      {
+        "src": "/projects/recording/s-09.webp",
+        "w": 440,
+        "h": 956,
+        "label": "IPhone 16 Pro Max 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/recording/s-10.webp",
+        "w": 440,
+        "h": 956,
+        "label": "Info",
+        "mobile": true
+      },
+      {
+        "src": "/projects/recording/s-11.webp",
+        "w": 440,
+        "h": 956,
+        "label": "Library",
+        "mobile": true
+      },
+      {
+        "src": "/projects/recording/s-12.webp",
+        "w": 440,
+        "h": 956,
+        "label": "Splash Screen",
+        "mobile": true
+      }
+    ],
+    "cover": {
+      "src": "/projects/recording/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "thumb": {
+      "src": "/projects/recording/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "ruba-digital": {
+    "screens": [
+      {
+        "src": "/projects/ruba-digital/s-01.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Branch",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-02.webp",
+        "w": 375,
+        "h": 1508,
+        "label": "Create customer 01",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-03.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Create customer 02",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-04.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Create customer 03",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-05.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Create customer 04",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-06.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Customer list detail",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-07.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Customer list",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-08.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Employee List",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-09.webp",
+        "w": 375,
+        "h": 855,
+        "label": "Employee dropdown",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-10.webp",
+        "w": 375,
+        "h": 822,
+        "label": "Home",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-11.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Invoice cash",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-12.webp",
+        "w": 375,
+        "h": 958,
+        "label": "Recovery 01",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-13.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Recovery 02 status",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-14.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Recovery 02",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-15.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Recovery 04",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-16.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Recovery list",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-17.webp",
+        "w": 375,
+        "h": 1250,
+        "label": "Sale stepper 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-18.webp",
+        "w": 375,
+        "h": 1177,
+        "label": "Sale stepper 2",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-19.webp",
+        "w": 375,
+        "h": 950,
+        "label": "Sale stepper 4",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-20.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Signin thumb",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-21.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Splash Screen",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-22.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Invoice installment 1",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-23.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Menu",
+        "mobile": true
+      },
+      {
+        "src": "/projects/ruba-digital/s-24.webp",
+        "w": 375,
+        "h": 812,
+        "label": "Sale stepper 5",
+        "mobile": true
+      }
+    ],
+    "cover": {
+      "src": "/projects/ruba-digital/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "thumb": {
+      "src": "/projects/ruba-digital/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "sand-app": {
+    "screens": [
+      {
+        "src": "/projects/sand-app/s-01.webp",
+        "w": 600,
+        "h": 1333,
+        "label": "Onboarding 1 capture rdt",
+        "mobile": true
+      },
+      {
+        "src": "/projects/sand-app/s-02.webp",
+        "w": 600,
+        "h": 1333,
+        "label": "Onboarding 2 ai analysis",
+        "mobile": true
+      },
+      {
+        "src": "/projects/sand-app/s-03.webp",
+        "w": 600,
+        "h": 1333,
+        "label": "Onboarding 3 sequential testing",
+        "mobile": true
+      },
+      {
+        "src": "/projects/sand-app/s-04.webp",
+        "w": 600,
+        "h": 1333,
+        "label": "Onboarding 4 works offline",
+        "mobile": true
+      },
+      {
+        "src": "/projects/sand-app/s-05.webp",
+        "w": 600,
+        "h": 1333,
+        "label": "Login",
+        "mobile": true
+      },
+      {
+        "src": "/projects/sand-app/s-06.webp",
+        "w": 600,
+        "h": 2878,
+        "label": "Home dashboard",
+        "mobile": true
+      },
+      {
+        "src": "/projects/sand-app/s-07.webp",
+        "w": 600,
+        "h": 1333,
+        "label": "Infection detail hcv",
+        "mobile": true
+      },
+      {
+        "src": "/projects/sand-app/s-08.webp",
+        "w": 600,
+        "h": 1333,
+        "label": "Test history",
+        "mobile": true
+      },
+      {
+        "src": "/projects/sand-app/s-09.webp",
+        "w": 600,
+        "h": 1333,
+        "label": "Test history reactive filter",
+        "mobile": true
+      },
+      {
+        "src": "/projects/sand-app/s-10.webp",
+        "w": 600,
+        "h": 1333,
+        "label": "Tests in process",
+        "mobile": true
+      },
+      {
+        "src": "/projects/sand-app/s-11.webp",
+        "w": 600,
+        "h": 4798,
+        "label": "Submission detail",
+        "mobile": true
+      },
+      {
+        "src": "/projects/sand-app/s-12.webp",
+        "w": 600,
+        "h": 1333,
+        "label": "Awaiting second picture",
+        "mobile": true
+      },
+      {
+        "src": "/projects/sand-app/s-13.webp",
+        "w": 600,
+        "h": 1725,
+        "label": "New test person info",
+        "mobile": true
+      },
+      {
+        "src": "/projects/sand-app/s-14.webp",
+        "w": 600,
+        "h": 1333,
+        "label": "Notifications",
+        "mobile": true
+      },
+      {
+        "src": "/projects/sand-app/s-15.webp",
+        "w": 600,
+        "h": 1970,
+        "label": "Profile",
+        "mobile": true
+      }
+    ],
+    "cover": {
+      "src": "/projects/sand-app/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "thumb": {
+      "src": "/projects/sand-app/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "sand-portal": {
+    "screens": [
+      {
+        "src": "/projects/sand-portal/s-01.webp",
+        "w": 1440,
+        "h": 900,
+        "label": "Login",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-02.webp",
+        "w": 1440,
+        "h": 4094,
+        "label": "Dashboard",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-03.webp",
+        "w": 1440,
+        "h": 1687,
+        "label": "Test reports",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-04.webp",
+        "w": 1440,
+        "h": 2015,
+        "label": "Submission detail positive",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-05.webp",
+        "w": 1440,
+        "h": 1969,
+        "label": "Submission detail non reactive",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-06.webp",
+        "w": 1440,
+        "h": 1080,
+        "label": "New submission",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-07.webp",
+        "w": 1440,
+        "h": 2142,
+        "label": "Bulk upload",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-08.webp",
+        "w": 1440,
+        "h": 1028,
+        "label": "Bulk upload detail",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-09.webp",
+        "w": 1440,
+        "h": 1750,
+        "label": "Bulk auto crop",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-10.webp",
+        "w": 1440,
+        "h": 900,
+        "label": "Persons",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-11.webp",
+        "w": 1440,
+        "h": 1025,
+        "label": "Person detail",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-12.webp",
+        "w": 1440,
+        "h": 1650,
+        "label": "Export reports",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-13.webp",
+        "w": 1440,
+        "h": 900,
+        "label": "Rdt kits",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-14.webp",
+        "w": 1440,
+        "h": 2322,
+        "label": "Rdt kit edit",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-15.webp",
+        "w": 1440,
+        "h": 1584,
+        "label": "Hospitals facilities",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-16.webp",
+        "w": 1440,
+        "h": 900,
+        "label": "Users",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-17.webp",
+        "w": 1440,
+        "h": 900,
+        "label": "Roles permissions",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-18.webp",
+        "w": 1440,
+        "h": 1800,
+        "label": "Notifications",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-19.webp",
+        "w": 1440,
+        "h": 900,
+        "label": "Profile settings",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-20.webp",
+        "w": 1440,
+        "h": 4094,
+        "label": "Dashboard dark",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-portal/s-21.webp",
+        "w": 1440,
+        "h": 2015,
+        "label": "Submission detail dark",
+        "mobile": false
+      }
+    ],
+    "cover": {
+      "src": "/projects/sand-portal/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/sand-portal/full.webp",
+      "w": 1280,
+      "h": 3639
+    },
+    "thumb": {
+      "src": "/projects/sand-portal/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  },
+  "sand-website": {
+    "screens": [
+      {
+        "src": "/projects/sand-website/s-01.webp",
+        "w": 1440,
+        "h": 3711,
+        "label": "Home",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-website/s-02.webp",
+        "w": 1440,
+        "h": 2640,
+        "label": "How it works",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-website/s-03.webp",
+        "w": 1440,
+        "h": 2122,
+        "label": "Solutions",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-website/s-04.webp",
+        "w": 1440,
+        "h": 1138,
+        "label": "Impact",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-website/s-05.webp",
+        "w": 1440,
+        "h": 959,
+        "label": "Portal",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-website/s-06.webp",
+        "w": 1440,
+        "h": 2143,
+        "label": "About",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-website/s-07.webp",
+        "w": 1440,
+        "h": 1017,
+        "label": "Resources",
+        "mobile": false
+      },
+      {
+        "src": "/projects/sand-website/s-08.webp",
+        "w": 1440,
+        "h": 1143,
+        "label": "Contact",
+        "mobile": false
+      }
+    ],
+    "cover": {
+      "src": "/projects/sand-website/cover.webp",
+      "w": 1600,
+      "h": 1000
+    },
+    "full": {
+      "src": "/projects/sand-website/full.webp",
+      "w": 1280,
+      "h": 3299
+    },
+    "thumb": {
+      "src": "/projects/sand-website/cover-sm.webp",
+      "w": 800,
+      "h": 500
+    }
+  }
+}
