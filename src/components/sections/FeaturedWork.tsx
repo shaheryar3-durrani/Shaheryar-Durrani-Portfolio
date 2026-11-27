@@ -11,7 +11,6 @@ import { cn } from "@/lib/cn";
 const host = (url?: string) => (url ? new URL(url).host.replace(/^www\./, "") : undefined);
 
 export default function FeaturedWork() {
-  const total = String(featuredProjects.length).padStart(2, "0");
   return (
     <section id="work" aria-labelledby="work-title" className="section border-t border-linen/10">
       <div className="shell">
@@ -48,12 +47,7 @@ export default function FeaturedWork() {
 
                 <div className={cn("md:col-span-5", flip && "md:order-1")}>
                   <Reveal>
-                    <p className="flex items-center gap-3 font-mono text-xs text-cement-light">
-                      <span className="text-rust-bright">{String(i + 1).padStart(2, "0")}</span>
-                      <span className="h-px w-8 bg-linen/20" />
-                      {total}
-                    </p>
-                    <p className="eyebrow mt-6">{p.category}</p>
+                    <p className="eyebrow">{p.category}</p>
                     <h3 className="display mt-3 text-[length:clamp(var(--text-step-3),5vw,var(--text-step-5))] break-words">
                       <Link href={`/projects/${p.slug}`} className="transition-colors fine:hover:text-rust-bright">
                         {p.title}

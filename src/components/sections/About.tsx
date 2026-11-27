@@ -78,18 +78,20 @@ export default function About() {
               </text>
               <circle cx="60" cy="60" r="5" className="fill-rust-bright" />
             </svg>
-            <figcaption className="mt-6 flex items-baseline justify-between gap-4 border-t border-linen/10 pt-4 pl-28 md:pl-24">
-              <span className="font-medium">{profile.name}</span>
-              <span className="font-mono text-xs text-cement-light">{profile.location}</span>
+            <figcaption className="mt-6 flex items-baseline justify-between gap-4 border-t border-linen/10 pt-4 pl-28 md:pl-32">
+              <span className="text-sm font-medium">{profile.name}</span>
+              <span className="shrink-0 font-mono text-xs text-cement-light">{profile.location}</span>
             </figcaption>
           </figure>
 
           <div className="md:col-span-7">
-            <h2 id="about-title" className="sr-only">
-              About {profile.name}
-            </h2>
+            <Reveal>
+              <h2 id="about-title" className="display-lg">
+                About <span className="serif-accent text-rust-bright">me</span>
+              </h2>
+            </Reveal>
             <TextReveal
-              className="display text-[length:clamp(var(--text-step-2),3vw,var(--text-step-3))] leading-[1.1]"
+              className="mt-8 max-w-2xl text-lg leading-relaxed text-linen md:text-xl"
               text="I sit between design and engineering. I turn Figma and Photoshop prototypes into pixel-perfect, responsive interfaces, and back them with the Vue.js, PHP and WordPress work that makes them fast."
             />
             <div className="mt-14 grid gap-10 sm:grid-cols-3 sm:gap-6">
