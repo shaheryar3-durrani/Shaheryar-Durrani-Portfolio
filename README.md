@@ -1,4 +1,4 @@
-# SHD · Beyond the Interface
+# Shahzada Muhammad Shaheryar Durrani
 
 Portfolio of Shahzada Shaheryar Durrani. Next.js 16 (App Router), Tailwind 4, React Three Fiber, GSAP ScrollTrigger, Lenis and Motion. Fully static, no database.
 
